@@ -1,15 +1,3 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    text-decoration: none;
-}
-
-body{
-    background-color: #fff;
-    width: 100%;
-    height: 1000px;
-    position: relative;
-}
 
 #top{
     width: 100%;
@@ -20,10 +8,9 @@ body{
 }
 #top img{
     width: 201px;
-    height: 54;
-    position: absolute;
-    top: 13px;
-    left: 13px;
+    height: 54px;
+    margin-left:13px;
+    margin-top:13px;
 }
 .nav{
     position: absolute;
